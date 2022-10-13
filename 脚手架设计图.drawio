@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-13T03:46:51.747Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="cQSVtTXAcscHOsLrYE18" version="20.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-13T03:50:00.500Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="NfHbnFeN8phVPBe8Tu1q" version="20.4.0" type="github">
   <diagram name="Page-1" id="c7558073-3199-34d8-9f00-42111426c3f3">
     <mxGraphModel dx="1844" dy="691" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="826" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -134,7 +134,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="rrOKCi3tNWYkQAfNOxic-127" value="Cache" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;strokeColor=#82b366;strokeWidth=3;fillColor=#d5e8d4;" vertex="1" parent="1">
+        <mxCell id="rrOKCi3tNWYkQAfNOxic-127" value="&lt;u&gt;Cache&lt;/u&gt;&lt;br&gt;Memore&lt;br&gt;Local" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;strokeColor=#82b366;strokeWidth=3;fillColor=#d5e8d4;" vertex="1" parent="1">
           <mxGeometry x="620" y="170" width="60" height="80" as="geometry" />
         </mxCell>
         <mxCell id="rrOKCi3tNWYkQAfNOxic-128" value="Response&lt;br&gt;Interceptor" style="rhombus;whiteSpace=wrap;html=1;strokeColor=#9673a6;strokeWidth=3;fillColor=#e1d5e7;" vertex="1" parent="1">
