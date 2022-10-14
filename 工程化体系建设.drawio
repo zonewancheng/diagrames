@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-14T06:43:53.987Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="VXqGTalTcPaGM72k6lX8" version="20.4.0" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-10-14T06:48:46.383Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="0db_VoLjhMfDbfIBysSV" version="20.4.0" type="github" pages="3">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="开发提交流程">
     <mxGraphModel dx="1018" dy="691" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -70,38 +70,46 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="Klh50hiYLJBz_C7w3aWs-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;" edge="1" parent="1" source="Klh50hiYLJBz_C7w3aWs-1" target="Klh50hiYLJBz_C7w3aWs-2">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="Klh50hiYLJBz_C7w3aWs-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Klh50hiYLJBz_C7w3aWs-1" target="jjKCEqWWiw12QfZ2jwT0-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="210" y="210" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="Klh50hiYLJBz_C7w3aWs-1" value="commit success" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="150" y="100" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Klh50hiYLJBz_C7w3aWs-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;" edge="1" parent="1" source="Klh50hiYLJBz_C7w3aWs-2" target="Klh50hiYLJBz_C7w3aWs-4">
+        <mxCell id="Klh50hiYLJBz_C7w3aWs-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="210" y="270" as="sourcePoint" />
+            <mxPoint x="210" y="330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Klh50hiYLJBz_C7w3aWs-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="210" y="390" as="sourcePoint" />
+            <mxPoint x="210" y="440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jjKCEqWWiw12QfZ2jwT0-2" value="&lt;u&gt;docs website&lt;/u&gt;&lt;br&gt;changelog&lt;br&gt;project docs" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="440" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="jjKCEqWWiw12QfZ2jwT0-3" value="Git hook" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="205" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="jjKCEqWWiw12QfZ2jwT0-4" value="Jenkins build" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="330" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="jjKCEqWWiw12QfZ2jwT0-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="jjKCEqWWiw12QfZ2jwT0-5" target="jjKCEqWWiw12QfZ2jwT0-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Klh50hiYLJBz_C7w3aWs-2" value="Git hook" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="150" y="210" width="120" height="60" as="geometry" />
+        <mxCell id="jjKCEqWWiw12QfZ2jwT0-5" value="GitLab Setting&lt;br&gt;&lt;span style=&quot;color: rgb(46, 46, 46); font-family: -apple-system, system-ui, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen-Sans, Ubuntu, Cantarell, &amp;quot;Helvetica Neue&amp;quot;, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;; background-color: rgb(255, 255, 255); text-align: left;&quot;&gt;&amp;nbsp;Integrations&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;color: rgb(46, 46, 46); font-family: -apple-system, system-ui, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen-Sans, Ubuntu, Cantarell, &amp;quot;Helvetica Neue&amp;quot;, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;; background-color: rgb(255, 255, 255); text-align: left;&quot;&gt;Settings&lt;/span&gt;&lt;span style=&quot;color: rgb(46, 46, 46); font-family: -apple-system, system-ui, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen-Sans, Ubuntu, Cantarell, &amp;quot;Helvetica Neue&amp;quot;, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;; background-color: rgb(255, 255, 255); text-align: left;&quot;&gt;&lt;br&gt;&lt;/span&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="10" y="222.5" width="110" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="Klh50hiYLJBz_C7w3aWs-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;endArrow=none;endFill=0;" edge="1" parent="1" source="Klh50hiYLJBz_C7w3aWs-4" target="Klh50hiYLJBz_C7w3aWs-6">
+        <mxCell id="jjKCEqWWiw12QfZ2jwT0-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="jjKCEqWWiw12QfZ2jwT0-7" target="jjKCEqWWiw12QfZ2jwT0-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Klh50hiYLJBz_C7w3aWs-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="Klh50hiYLJBz_C7w3aWs-4" target="Klh50hiYLJBz_C7w3aWs-8">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="Klh50hiYLJBz_C7w3aWs-4" value="Jenkins build" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="150" y="330" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="Klh50hiYLJBz_C7w3aWs-6" value="&lt;u&gt;Jenkins job&lt;br&gt;&lt;/u&gt;docs-template&lt;br&gt;git-project-docs" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="345" y="325" width="150" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="Klh50hiYLJBz_C7w3aWs-8" value="&lt;u&gt;docs website&lt;/u&gt;&lt;br&gt;changelog&lt;br&gt;project docs" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="135" y="440" width="150" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="Klh50hiYLJBz_C7w3aWs-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="Klh50hiYLJBz_C7w3aWs-10" target="Klh50hiYLJBz_C7w3aWs-2">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="Klh50hiYLJBz_C7w3aWs-10" value="GitLab Setting&lt;br&gt;&lt;h2 style=&quot;box-sizing: border-box; line-height: 16px; margin: 0px; text-align: left; background-color: rgb(255, 255, 255);&quot; class=&quot;breadcrumbs-sub-title&quot;&gt;&lt;font face=&quot;-apple-system, system-ui, Segoe UI, Roboto, Oxygen-Sans, Ubuntu, Cantarell, Helvetica Neue, sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol&quot; color=&quot;#2e2e2e&quot;&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;Integrations Settings&lt;/span&gt;&lt;/font&gt;&lt;br&gt;&lt;/h2&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="340" y="205" width="160" height="70" as="geometry" />
+        <mxCell id="jjKCEqWWiw12QfZ2jwT0-7" value="&lt;u&gt;Jenkins job&lt;br&gt;&lt;/u&gt;docs-template&lt;br&gt;git-project-docs" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="10" y="345" width="110" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
@@ -111,6 +119,27 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="KPAcTZYZ5ZOUYfsGQs_s-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="KPAcTZYZ5ZOUYfsGQs_s-1" target="KPAcTZYZ5ZOUYfsGQs_s-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KPAcTZYZ5ZOUYfsGQs_s-1" value="开发完毕" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="130" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="KPAcTZYZ5ZOUYfsGQs_s-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="KPAcTZYZ5ZOUYfsGQs_s-3" target="KPAcTZYZ5ZOUYfsGQs_s-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KPAcTZYZ5ZOUYfsGQs_s-3" value="本地打包" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KPAcTZYZ5ZOUYfsGQs_s-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="KPAcTZYZ5ZOUYfsGQs_s-5" target="KPAcTZYZ5ZOUYfsGQs_s-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KPAcTZYZ5ZOUYfsGQs_s-5" value="Jean构建" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="410" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KPAcTZYZ5ZOUYfsGQs_s-7" value="Jean部署&lt;br&gt;上线完毕" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="550" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
