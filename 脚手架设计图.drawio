@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-13T11:20:23.184Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="N7LwtV75agZcxbIWtIrs" version="20.4.0" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-10-14T06:10:20.282Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="UYdQXedm1qAWbhG2EZh4" version="20.4.0" type="github" pages="5">
   <diagram name="请求模块" id="c7558073-3199-34d8-9f00-42111426c3f3">
     <mxGraphModel dx="3496" dy="1860" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="826" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -581,6 +581,20 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="YZT8F_0-Nszbrlq5MFbq-1" value="&lt;font color=&quot;#000000&quot;&gt;Request&lt;/font&gt;" style="shape=ext;double=1;rounded=0;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#000000;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="540" y="-70" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="YZT8F_0-Nszbrlq5MFbq-2" value="Cache" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;strokeColor=#82b366;strokeWidth=2;fillColor=#d5e8d4;" vertex="1" parent="1">
+          <mxGeometry x="720" y="-70" width="60" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="bnRBZB6aBDJpytta3SeO" name="脚手架更新逻辑">
+    <mxGraphModel dx="1018" dy="691" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
       </root>
     </mxGraphModel>
   </diagram>
