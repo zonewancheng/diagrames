@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-25T07:04:52.912Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="Do-erK8nCoUu5zhrS5iX" version="21.5.0" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2023-07-25T07:11:58.830Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="c_lmns0AvIhrglIJN0eY" version="21.5.0" type="github" pages="6">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="开发提交流程">
     <mxGraphModel dx="1026" dy="693" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -276,7 +276,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="tKUFg2vHGiSytV5yJ44U" name="文档体系">
-    <mxGraphModel dx="2110" dy="866" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2305" dy="727" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -322,7 +322,7 @@
         <mxCell id="QtrGUgTS2BX9TL-pFe-N-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QtrGUgTS2BX9TL-pFe-N-19" target="QtrGUgTS2BX9TL-pFe-N-31">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="QtrGUgTS2BX9TL-pFe-N-33" value="SUCCESS" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="QtrGUgTS2BX9TL-pFe-N-32">
+        <mxCell id="QtrGUgTS2BX9TL-pFe-N-33" value="OK" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="QtrGUgTS2BX9TL-pFe-N-32">
           <mxGeometry x="-0.1991" y="2" relative="1" as="geometry">
             <mxPoint x="6" as="offset" />
           </mxGeometry>
@@ -362,16 +362,16 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="QtrGUgTS2BX9TL-pFe-N-31" value="CHANGE LOG&lt;br&gt;DOCUMENTS" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fontStyle=0;startSize=30;" vertex="1" parent="1">
-          <mxGeometry x="660" y="550" width="120" height="80" as="geometry" />
+          <mxGeometry x="610" y="550" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="QtrGUgTS2BX9TL-pFe-N-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QtrGUgTS2BX9TL-pFe-N-34" target="QtrGUgTS2BX9TL-pFe-N-36">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="QtrGUgTS2BX9TL-pFe-N-34" value="NGNIX" style="whiteSpace=wrap;html=1;fontStyle=0;startSize=30;" vertex="1" parent="1">
-          <mxGeometry x="827" y="559" width="120" height="60" as="geometry" />
+          <mxGeometry x="760" y="560" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="QtrGUgTS2BX9TL-pFe-N-36" value="WEB&amp;nbsp; SITE" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=0;startSize=30;" vertex="1" parent="1">
-          <mxGeometry x="1000" y="560" width="120" height="60" as="geometry" />
+          <mxGeometry x="910" y="560" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="1FV2HWAMjozBSVaa7MZF-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1FV2HWAMjozBSVaa7MZF-8">
           <mxGeometry relative="1" as="geometry">
@@ -401,7 +401,7 @@
           <mxGeometry y="380" width="160" height="110" as="geometry" />
         </mxCell>
         <mxCell id="1FV2HWAMjozBSVaa7MZF-24" value="DATA&lt;br&gt;ERROR MSG" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
-          <mxGeometry x="240" y="400" width="140" height="75" as="geometry" />
+          <mxGeometry x="10" y="260" width="140" height="75" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
