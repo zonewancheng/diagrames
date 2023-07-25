@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-25T03:16:21.077Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="hvv4Ze9d4JS6GIuECQjK" version="21.5.0" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2023-07-25T03:21:28.779Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="wZffn5zDAsjIdP2oUjE1" version="21.5.0" type="github" pages="5">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="开发提交流程">
     <mxGraphModel dx="1026" dy="693" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -276,7 +276,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="tKUFg2vHGiSytV5yJ44U" name="文档体系">
-    <mxGraphModel dx="641" dy="433" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1468" dy="433" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -289,7 +289,7 @@
         <mxCell id="QtrGUgTS2BX9TL-pFe-N-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QtrGUgTS2BX9TL-pFe-N-2" target="QtrGUgTS2BX9TL-pFe-N-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="QtrGUgTS2BX9TL-pFe-N-11" value="FALSE" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="QtrGUgTS2BX9TL-pFe-N-4">
+        <mxCell id="QtrGUgTS2BX9TL-pFe-N-11" value="ERROR&lt;br&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="QtrGUgTS2BX9TL-pFe-N-4">
           <mxGeometry x="-0.3122" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -297,7 +297,7 @@
         <mxCell id="QtrGUgTS2BX9TL-pFe-N-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QtrGUgTS2BX9TL-pFe-N-2" target="QtrGUgTS2BX9TL-pFe-N-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="QtrGUgTS2BX9TL-pFe-N-18" value="TURE" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="QtrGUgTS2BX9TL-pFe-N-17">
+        <mxCell id="QtrGUgTS2BX9TL-pFe-N-18" value="SUCCESS" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="QtrGUgTS2BX9TL-pFe-N-17">
           <mxGeometry x="-0.273" y="-2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -360,6 +360,12 @@
           <mxGeometry x="-0.0105" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="QtrGUgTS2BX9TL-pFe-N-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QtrGUgTS2BX9TL-pFe-N-29" target="QtrGUgTS2BX9TL-pFe-N-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QtrGUgTS2BX9TL-pFe-N-29" value="COMMIT&amp;nbsp; RULES&lt;br&gt;&amp;lt;type&amp;gt;(&amp;lt;scope&amp;gt;): &amp;lt;short summary&amp;gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+          <mxGeometry x="-30" y="300" width="221" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
