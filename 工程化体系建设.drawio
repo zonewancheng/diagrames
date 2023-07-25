@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-25T07:02:36.165Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="05pllRSlsDrzd-qj3GdY" version="21.5.0" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2023-07-25T07:04:01.167Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="9Kn237UwBk-U92WNvsEg" version="21.5.0" type="github" pages="6">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="开发提交流程">
     <mxGraphModel dx="1026" dy="693" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -389,8 +389,19 @@
         <mxCell id="1FV2HWAMjozBSVaa7MZF-8" value="WEB HOOK" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="20" y="559" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="1FV2HWAMjozBSVaa7MZF-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1FV2HWAMjozBSVaa7MZF-19" target="1FV2HWAMjozBSVaa7MZF-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1FV2HWAMjozBSVaa7MZF-26" value="ERROR" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1FV2HWAMjozBSVaa7MZF-25">
+          <mxGeometry x="-0.525" relative="1" as="geometry">
+            <mxPoint x="14" y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="1FV2HWAMjozBSVaa7MZF-19" value="COMMIT CHECK（SERVICE）" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry y="380" width="160" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="1FV2HWAMjozBSVaa7MZF-24" value="DATA&lt;br&gt;ERROR MSG" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="400" width="140" height="75" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
