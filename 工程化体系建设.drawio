@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-25T07:11:58.830Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="c_lmns0AvIhrglIJN0eY" version="21.5.0" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2023-07-25T07:20:18.759Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="Lxab8MiaorFLa4miaUhA" version="21.5.0" type="github" pages="6">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="开发提交流程">
     <mxGraphModel dx="1026" dy="693" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -276,7 +276,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="tKUFg2vHGiSytV5yJ44U" name="文档体系">
-    <mxGraphModel dx="2305" dy="727" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1853" dy="693" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -402,6 +402,21 @@
         </mxCell>
         <mxCell id="1FV2HWAMjozBSVaa7MZF-24" value="DATA&lt;br&gt;ERROR MSG" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
           <mxGeometry x="10" y="260" width="140" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="1FV2HWAMjozBSVaa7MZF-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="1FV2HWAMjozBSVaa7MZF-28" target="QtrGUgTS2BX9TL-pFe-N-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1FV2HWAMjozBSVaa7MZF-28" value="TEMPLATE" style="shape=card;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="350" width="80" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="1FV2HWAMjozBSVaa7MZF-30" value="BLOG" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="355" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1FV2HWAMjozBSVaa7MZF-31" value="MONTHLY" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="385" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1FV2HWAMjozBSVaa7MZF-32" value="DOCUMENTS" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="415" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
