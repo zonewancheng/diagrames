@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-25T06:18:03.826Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="ffD5S_NAeZzCQCPjDJRo" version="21.5.0" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2023-07-25T06:21:07.642Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="DilWIv5lVvEKGDJNNZei" version="21.5.0" type="github" pages="6">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="开发提交流程">
     <mxGraphModel dx="1026" dy="693" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -398,7 +398,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="OuEVDpPB4n39DCxdoGwK-1" value="markdown&amp;nbsp;Vditor" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="OuEVDpPB4n39DCxdoGwK-1" value="CMS System" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="300" y="240" width="100" height="100" as="geometry" />
         </mxCell>
         <mxCell id="OuEVDpPB4n39DCxdoGwK-2" value="Git lab" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
@@ -409,6 +409,9 @@
         </mxCell>
         <mxCell id="OuEVDpPB4n39DCxdoGwK-4" value="mySql" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="90" y="240" width="140" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="OuEVDpPB4n39DCxdoGwK-5" value="" style="shape=internalStorage;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="390" width="100" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
