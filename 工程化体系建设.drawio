@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-01T00:53:46.263Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="RHk4A9LwZzUu9EXOYfGK" version="21.6.5" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2023-08-01T00:54:27.728Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="_oFVtHNg2v54f26uDtKy" version="21.6.5" type="github" pages="6">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="开发提交流程">
     <mxGraphModel dx="1266" dy="693" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -530,7 +530,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="gp0lLZ7l_gTosFjQMrfu-8" value="mysql" style="rounded=1;absoluteArcSize=1;html=1;arcSize=10;whiteSpace=wrap;points=[];strokeColor=inherit;fillColor=inherit;" vertex="1" parent="1">
-          <mxGeometry x="720" y="180" width="80" height="260" as="geometry" />
+          <mxGeometry x="720" y="180" width="70" height="260" as="geometry" />
         </mxCell>
         <mxCell id="gp0lLZ7l_gTosFjQMrfu-32" value="S3" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="30" y="180" width="70" height="260" as="geometry" />
